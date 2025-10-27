@@ -1,2 +1,3 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+Berikut ini adalah link youtube untuk live coding uts pemrograman mobile
+
+https://www.youtube.com/live/_docIfjANoY?si=fGXjV4tVBCW9bevW
